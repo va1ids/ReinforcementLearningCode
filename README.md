@@ -3,8 +3,6 @@
 
 在写代码过程中要比较细心，比如在写YuanYangEnv环境过程中，如果出现了碰撞是不能像下一个状态走的，因为在坐标转换的过程当中会出现，list out of range的错误，因为在撞墙之后他一定会出圈。
 
-所有的代码py文件名称均与书中一致。
-
 #### [Chapter0先导篇](https://github.com/va1ids/ReinforcementLearningCode/tree/main/Chapter0%E5%85%88%E5%AF%BC%E7%AF%87)
 
 - k-摇臂赌博机:  [KB_Game.py](https://github.com/va1ids/ReinforcementLearningCode/blob/main/Chapter0%E5%85%88%E5%AF%BC%E7%AF%87/KB_Game_RL/KB_Game.py)
